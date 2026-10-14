@@ -161,7 +161,7 @@ EU standard   ██████ – ██████████████ 
 
 The final recommendation on the three-year partnership is based on the **combined findings** across portfolio, sellers, geography and delivery.
 
-👉 **[Open the final presentation on Canva][canva]**
+👉 **[Open the final presentation on Canva][https://canva.link/rq6zb77hluop13b]**
 
 ---
 
