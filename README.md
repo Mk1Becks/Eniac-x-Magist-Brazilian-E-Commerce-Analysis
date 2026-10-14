@@ -17,8 +17,6 @@
 
 <br>
 
-[**▶ View the final presentation**][canva]
-
 <br>
 
 [About](#-about-the-project) •
