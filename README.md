@@ -199,7 +199,7 @@ The project uses a **fictional dataset** based on Magist's e-commerce database:
 | File | Description |
 |------|-------------|
 | [`README.md`](README.md) | Project overview, business questions, findings |
-| [`script.sql`](script.sql) | SQL queries for the data analysis |
+| [`script.sql`](<Magist_explore_data_questions.sql>) | SQL queries for the data analysis |
 | [`visualizations.twbx`](visualizations.twbx) | Tableau workbook |
 | [`presentation.pdf`](<Presented by WRITE PRESEN.pdf>) | Final presentation and recommendation |
 
